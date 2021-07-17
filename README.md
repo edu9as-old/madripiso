@@ -5,7 +5,7 @@ The only requirement is **pandas** to be installed with **xlrd**.
 
 ## 1. Files
 
-- **cuentas-del-madripiso.ipynb**: given an Excel file with the format specified in section 2, this Jupyter notebook computes the household accounts. At the end of every month (accounts were computed monthly), this notebook showed how much money was owed among flatmates; the code in this notebook can be easily executed thanks to [Google Colab](https://colab.research.google.com/github/edu9as/madripiso/blob/master/cuentas-del-madripiso.ipynb). This code was adapted and deployed in a [Shiny app](https://edu9as.shinyapps.io/madripiso/) to ease the computation of the accounts (source code in **app/**).
+- **cuentas-del-madripiso.ipynb**: given an Excel file with the format specified in section 2, this Jupyter notebook computes the household accounts. At the end of every month (accounts were computed monthly), this notebook showed how much money was owed among flatmates; the code in this notebook can be easily executed thanks to [Google Colab](https://colab.research.google.com/github/edu9as-old/madripiso/blob/master/cuentas-del-madripiso.ipynb). This code was adapted and deployed in a [Shiny app](https://edu9as.shinyapps.io/madripiso/) to ease the computation of the accounts (source code in **app/**).
 - **sample.xlsx**: sample Excel file to easily test the code in **cuentas-del-madripiso.ipynb**. Data is totally made up.
 - **app/**: source code of the Shiny app built from this project.
 
